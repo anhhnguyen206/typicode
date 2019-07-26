@@ -61,59 +61,6 @@
                 }
             ],
             "datePublished": "2019-07-09T11:06:00"
-        },
-        {
-            "name": "The 15 Best Airlines in the World",
-            "url": "https:\/\/www.newsweek.com\/best-airlines-1420554",
-            "description": "AirHelp, which helps passengers get compensated for delayed or canceled flights, just released its rankings of more than 70 major global airlines ... Serving more than 170 destinations, Qatar Airways has been a member of Oneworld alliance since 2013.",
-            "about": [
-                {
-                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/ddb7c000-f710-87a0-dfc6-763c39ac30ee",
-                    "name": "World"
-                },
-                {
-                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/bf6130e9-6824-bd3e-ab27-640c005edfb0",
-                    "name": "Best Airlines"
-                }
-            ],
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "Newsweek",
-                    "image": {
-                        "thumbnail": {
-                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_5b25f28f2c7ef602447f087e69de137e&pid=news"
-                        }
-                    }
-                }
-            ],
-            "datePublished": "2019-05-10T06:45:00"
-        },
-        {
-            "name": "Korea’s Mega-Merger of Shipyards Set to Dominate Global Shipbuilding",
-            "url": "https:\/\/www.hellenicshippingnews.com\/koreas-mega-merger-of-shipyards-set-to-dominate-global-shipbuilding\/",
-            "description": "Some of the ships will be used to move gas from the Golden Pass LNG facility in Sabine, Texas, which is 70% owned by Qatar Petroleum ... Capacity for another 170 million metric tons is due to be added by 2030, if planned projects go onstream.",
-            "about": [
-                {
-                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/72c63be5-746a-0f9d-0514-d83fe6454f43",
-                    "name": "Korea"
-                },
-                {
-                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a96a5a2e-ddf2-376f-59c3-cf1aaf3f0237",
-                    "name": "Global Investment House"
-                },
-                {
-                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/3ebf2be9-7420-55c2-89b9-572792e97ac0",
-                    "name": "Shipbuilding"
-                }
-            ],
-            "provider": [
-                {
-                    "_type": "Organization",
-                    "name": "Hellenic Shipping News Worldwide"
-                }
-            ],
-            "datePublished": "2019-02-08T00:00:00"
         }
     ]
 }
