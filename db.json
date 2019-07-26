@@ -1,0 +1,290 @@
+{
+    "_type": "News",
+    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=qa+170+70",
+    "queryContext": {
+        "originalQuery": "qa 170 70",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 26400,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": true,
+            "url": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=qa+170+70"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": false,
+            "url": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/news\/search?q=qa+170+70&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Qatar's $12 Billion Bond Tops Saudi Debt Sale to Lead EM",
+            "url": "https:\/\/www.bloomberg.com\/news\/articles\/2018-04-12\/qatar-offers-12-billion-in-first-dollar-bond-sale-since-2016-jfwp6ip2",
+            "description": "It also placed $3 billion of 10-year bonds at a spread of 170 basis points ... on the bonds were about 50 to 70 basis points wider than where the country’s existing bonds traded, according to data compiled by Bloomberg. Qatar is the world’s richest ...",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/12aef15b-0748-2538-a691-1f10b68d6fc2",
+                    "name": "Qatar"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/643fa254-bbec-4431-1e6c-137f50c7a6fe",
+                    "name": "Lead"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/672bc136-22f9-3750-0459-2fbd2340f892",
+                    "name": "Saudi Arabia"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P.",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_547fa6d5f7b56fc1176cbdaadbcad3bc&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2018-04-12T18:18:00"
+        },
+        {
+            "name": "What's The Secret Behind the 100 Tanks Qatar is Buying From Turkey?",
+            "url": "https:\/\/www.albawaba.com\/news\/whats-secret-100-tanks-qatar-buying-turkey-1267518",
+            "description": "Qatar procured one hundred Altay tanks for use in its military ... It's distinctive 1800 horsepower engine ensures it a speed of 70 km\/h, while also allowing it to move underwater at a depth of 4.1 meters. The tank's armour is a modular reactive composite ...",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/12aef15b-0748-2538-a691-1f10b68d6fc2",
+                    "name": "Qatar"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/fbfb6418-e8cf-0d18-8b81-28d0fcccda7c",
+                    "name": "Turkey"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/3b383310-0c5a-ee70-5683-e079d6105e44",
+                    "name": "Tank"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Al Bawaba News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_b6168df1a3ba597b5d544374d73a5d0a&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2019-03-18T00:00:00"
+        },
+        {
+            "name": "Next Steps: 43-101 Resource, Financing and Pre-Economic Assessment",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2019\/07\/09\/1880013\/0\/en\/Lomiko-Metals-and-Quebec-Precious-Metals-report-multiple-100-m-intercepts-and-multiple-10-Cg-Zones-at-La-Loutre-Flake-Graphite-Project.html",
+            "description": "It is accessible by driving NW from Montreal for a distance of approximately 170 kilometres. The 2019 exploration program ... Consul-Teck implemented QA\/QC procedures to ensure best practices in sampling and analysis of the core samples.",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/32da1fe8-6bb5-f40e-e008-82becf7ef390",
+                    "name": "Québec"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/0ca1e87f-e2f6-43fb-8deb-d22bd09a9cae",
+                    "name": "Louisiana"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/23e10b26-739d-4219-5662-c945e0629cda",
+                    "name": "Precious metal"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GlobeNewswire",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_690fd3b1c676c8dd4206308063dc3231&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2019-07-09T11:06:00"
+        },
+        {
+            "name": "The 15 Best Airlines in the World",
+            "url": "https:\/\/www.newsweek.com\/best-airlines-1420554",
+            "description": "AirHelp, which helps passengers get compensated for delayed or canceled flights, just released its rankings of more than 70 major global airlines ... Serving more than 170 destinations, Qatar Airways has been a member of Oneworld alliance since 2013.",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/ddb7c000-f710-87a0-dfc6-763c39ac30ee",
+                    "name": "World"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/bf6130e9-6824-bd3e-ab27-640c005edfb0",
+                    "name": "Best Airlines"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsweek",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_5b25f28f2c7ef602447f087e69de137e&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2019-05-10T06:45:00"
+        },
+        {
+            "name": "Korea’s Mega-Merger of Shipyards Set to Dominate Global Shipbuilding",
+            "url": "https:\/\/www.hellenicshippingnews.com\/koreas-mega-merger-of-shipyards-set-to-dominate-global-shipbuilding\/",
+            "description": "Some of the ships will be used to move gas from the Golden Pass LNG facility in Sabine, Texas, which is 70% owned by Qatar Petroleum ... Capacity for another 170 million metric tons is due to be added by 2030, if planned projects go onstream.",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/72c63be5-746a-0f9d-0514-d83fe6454f43",
+                    "name": "Korea"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/a96a5a2e-ddf2-376f-59c3-cf1aaf3f0237",
+                    "name": "Global Investment House"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/3ebf2be9-7420-55c2-89b9-572792e97ac0",
+                    "name": "Shipbuilding"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Hellenic Shipping News Worldwide"
+                }
+            ],
+            "datePublished": "2019-02-08T00:00:00"
+        },
+        {
+            "name": "Aviat Networks Signs Global Frame Agreement with Ooredoo Group",
+            "url": "https:\/\/finance.yahoo.com\/news\/aviat-networks-signs-global-frame-130000624.html",
+            "description": "May 14, 2019 \/PRNewswire\/ -- Aviat Networks, Inc. (AVNW), the leading expert in wireless transport solutions, today announced a 5-year global supplier frame agreement with Ooredoo, an international telecommunications company headquartered in Qatar with ten ...",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/d9150ff3-fbe6-f028-11c4-ec9024415fa4",
+                    "name": "Aviat Networks"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo Finance"
+                }
+            ],
+            "datePublished": "2019-05-14T13:07:00"
+        },
+        {
+            "name": "Qatar could defend currency for years, its balance sheet shows",
+            "url": "https:\/\/www.reuters.com\/article\/us-gulf-qatar-currency-idUSKBN19020X",
+            "description": "Cutting Qatar’s credit rating to AA- this week, Standard & Poor’s put the government’s liquid external assets at 170 percent of gross domestic product ... which the IMF has estimated at $70 billion this year, are to countries that have blocked ...",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/12aef15b-0748-2538-a691-1f10b68d6fc2",
+                    "name": "Qatar"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/9f417f89-9a37-e0d0-912e-99dccfb8982d",
+                    "name": "Reuters"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_62e71bb461e92ae25d37bed673fc53b9&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2017-06-09T14:32:00"
+        },
+        {
+            "name": "Near the top of Boris Johnson’s in-box: Iran tanker standoff",
+            "url": "https:\/\/www.krqe.com\/news\/international\/near-the-top-of-boris-johnsons-in-box-iran-tanker-standoff\/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https:\/\/www.bing.com\/th?id=ON.FF1EAFCD7822E79F275B59B9A99215B8&pid=News",
+                    "width": 512,
+                    "height": 341
+                }
+            },
+            "description": "There was one hopeful sign Wednesday: A large British-flagged vessel transited the Strait of Hormuz and arrived at a port in Qatar in the first such passage ... ATHENS, Greece (AP) — Greek authorities say more than 170 firefighters are battling to ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "KRQE",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_cbd8c3dcb62c00a5eaf9db4cd936e5f4&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2019-07-24T13:05:00",
+            "category": "World"
+        },
+        {
+            "name": "Qatar Starts Dollar Bond Sale Days After Saudi Arabia",
+            "url": "https:\/\/www.bloomberg.com\/news\/articles\/2018-04-12\/qatar-is-said-to-start-dollar-bond-sale-days-after-saudi-arabia",
+            "description": "READ MORE: Trump Syria Threat Won’t Deter Investors From Qatar Dollar Bond The following is the initial price guidance for Qatar’s bonds based on a term sheet seen by Bloomberg: About 170 basis points ... are about 50 to 70 basis points wider than ...",
+            "about": [
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/12aef15b-0748-2538-a691-1f10b68d6fc2",
+                    "name": "Qatar"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/672bc136-22f9-3750-0459-2fbd2340f892",
+                    "name": "Saudi Arabia"
+                },
+                {
+                    "readLink": "https:\/\/api.cognitive.microsoft.com\/api\/v7\/entities\/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P.",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_547fa6d5f7b56fc1176cbdaadbcad3bc&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2018-04-12T05:37:00"
+        },
+        {
+            "name": "BUREAU VERITAS: Strong momentum in the First Half, 2019 outlook confirmed",
+            "url": "https:\/\/finance.yahoo.com\/news\/bureau-veritas-strong-momentum-first-053000835.html",
+            "description": "The HSE Consulting business unit in North America, with approximately 170 employees ... growth was led by Qatar, and in South Korea by new Capex contracts. Business remained solid in North ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "YAHOO! News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https:\/\/www.bing.com\/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2019-07-25T05:36:00",
+            "category": "Business"
+        }
+    ]
+}
